@@ -1,4 +1,4 @@
-# LOGO GAME <img src="readme/screenshots/logo_copia.png" width="50" height="50" alt="Logo">
+# LOGO GAME  <img src="readme/screenshots/logo_copia.png" width="50" height="50" alt="Logo">
 ## Introduccion:
 La mecánica de este videojuego es sencilla: se presentan 4 logos, de los cuales 3 son incorrectos y 1 es el correcto. El jugador debe seleccionar cuidadosamente la opción correcta para ganar 20 monedas y superar los récords de monedas de otros usuarios. Si el jugador elige incorrectamente, perderá un corazón y 10 monedas. Además, también se puede perder si transcurren 30 segundos sin seleccionar una opción.
 
