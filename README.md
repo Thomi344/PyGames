@@ -15,3 +15,6 @@ Al iniciar la aplicación, se establece una resolución de 1280x720 píxeles. La
 ![resta monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172707.png) ![suma monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172733.png)
 
 ![pantalla final](readme/screenshots/Captura_de_pantalla_2024-07-01_172752.png)
+
+
+## Fuentes:
