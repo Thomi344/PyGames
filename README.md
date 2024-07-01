@@ -14,10 +14,28 @@ Al seleccionar Play, lo dirigirá a la siguiente pantalla, en la cual deberá in
 
 Para avanzar, deberá tocar la tecla ESC como lo indica en la ventana cuando comienza a escribir
 
-![ESC para continuar](readme/screenshots/Captura de pantalla 2024-07-01 190053.png)
+![ESC para continuar](readme/screenshots/Captura_de_pantalla_2024-07-01_190053.png)
 
 El nombre debe contener por lo menos un caracter y como máximo, puede tener 10. En caso de no ingresar ningun caracter o ingresar más de 10, el juego no le permitirá continuar. 
 
-![limite 10 caracteres](readme/screenshots/Captura de pantalla 2024-07-01 190116.png)
+![limite 10 caracteres](readme/screenshots/Captura_de_pantalla_2024-07-01_190116.png)
+
+## Comienzo del juego
+
+El participante verá en pantalla 4 versiones similares del logo de una marca, pero solo uno de ellos es el correcto. Debe hacer click sobre la opción que cree correcta. Tiene 30 segundos para completar la ronda. En caso de no seleccionar una respuesta antes del tiempo indicado, se pasará automáticamente a la siguiente ronda, se le descontará una vida y 10 monedas. El objetivo es completar las 15 rondas manteniendo vidas y con la mayor cantidad de monedas posible.
+
+![pantalla_juego](readme/screenshots/Captura_de_pantalla_2024-07-01_172602.png)
+
+El participante cuenta con un total de 5 vidas, representadas con los corazones que se visualizan en el sector izquierdo superior de la pantalla, que se irán descontando de a una con cada error, o con el cumplimiento del tiempo límite de cada ronda (30 segundos). Al quedarse sin vidas, se termina la partida.
+
+![cantidad vidas](readme/screenshots/Captura_de_pantalla_2024-07-01_172635.png)
+
+Con cada acierto que el jugador tenga, se le sumarán 20 monedas, mientras que con cada equivocación, se le descontarán 10. En caso de cumplirse los 30 segundos, también se descuentan 10 monedas 
+
+![aumento monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172733.png)        ![descuento monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172707.png)    
+Al finalizar el juego, ya sea porque el participante complete las 15 rondas o porque se quede sin vidas, aparecerá en pantalla la siguiente imagen, con la información de cuál fue el tiempo promedio utilizado para cada respuesta, con cuántas monedas finalizó la partida, y si superó el record de monedas, o sigue perteneciendo a otra persona.
+
+![pantalla final](readme/screenshots/Captura_de_pantalla_2024-07-01_172752.png) 
+
 ## Documentacion:
 https://www.pygame.org/docs/
