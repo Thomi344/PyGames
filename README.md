@@ -20,7 +20,7 @@ El nombre debe contener por lo menos un caracter y como máximo, puede tener 10.
 
 ![limite 10 caracteres](readme/screenshots/Captura_de_pantalla_2024-07-01_190116.png)
 
-## Comienzo del juego
+## Comienzo del juego:
 
 El participante verá en pantalla 4 versiones similares del logo de una marca, pero solo uno de ellos es el correcto. Debe hacer click sobre la opción que cree correcta. Tiene 30 segundos para completar la ronda. En caso de no seleccionar una respuesta antes del tiempo indicado, se pasará automáticamente a la siguiente ronda, se le descontará una vida y 10 monedas. El objetivo es completar las 15 rondas manteniendo vidas y con la mayor cantidad de monedas posible.
 
@@ -32,8 +32,10 @@ El participante cuenta con un total de 5 vidas, representadas con los corazones 
 ![cantidad vidas](readme/screenshots/Captura_de_pantalla_2024-07-01_172635.png)
 
 Con cada acierto que el jugador tenga, se le sumarán 20 monedas, mientras que con cada equivocación, se le descontarán 10. En caso de cumplirse los 30 segundos, también se descuentan 10 monedas 
+![aumento monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172733.png)        ![descuento monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172707.png)  
 
-![aumento monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172733.png)        ![descuento monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172707.png)    
+## Fin del juego:
+
 Al finalizar el juego, ya sea porque el participante complete las 15 rondas o porque se quede sin vidas, aparecerá en pantalla la siguiente imagen, con la información de cuál fue el tiempo promedio utilizado para cada respuesta, con cuántas monedas finalizó la partida, y si superó el record de monedas, o sigue perteneciendo a otra persona.
 
 ![pantalla final](readme/screenshots/Captura_de_pantalla_2024-07-01_172752.png) 
