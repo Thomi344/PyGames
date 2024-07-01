@@ -41,6 +41,18 @@ def cargar_ultimo_resultado_csv(path:str)->list[dict]:
     return lista_records
 
 def crear_nuevo_record (usuario:str,tiempo:int,monedas:int,rondas:int)-> dict:
+    """
+    Crea y devuelve un nuevo registro con información del usuario.
+
+    Args:
+    usuario (str): El nombre del usuario.
+    tiempo (float): El tiempo registrado por el usuario.
+    monedas (int): La cantidad de monedas recolectadas por el usuario.
+    rondas (int): El número de rondas completadas por el usuario.
+
+    Returns:
+    dict: Un diccionario que representa el nuevo registro con las claves 'id', 'usuario', 'tiempo', 'monedas' y 'rondas'.
+    """
     nuevo_record = {"id":"",
                 "usuario":usuario,
                 "tiempo":tiempo,
