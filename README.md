@@ -16,6 +16,7 @@ Para avanzar, deberá tocar la tecla ESC como lo indica en la ventana cuando com
 
 ![ESC para continuar](readme/screenshots/Captura_de_pantalla_2024-07-01_190053.png)
 
+<strong> Posible error </strong>
 El nombre debe contener por lo menos un caracter y como máximo, puede tener 10. En caso de no ingresar ningun caracter o ingresar más de 10, el juego no le permitirá continuar. 
 
 ![limite 10 caracteres](readme/screenshots/Captura_de_pantalla_2024-07-01_190116.png)
@@ -28,11 +29,13 @@ El participante verá en pantalla 4 versiones similares del logo de una marca, p
 
 ### Elementos del juego:
 <strong> Vidas </strong>
+
 El participante cuenta con un total de 5 vidas, representadas con los corazones que se visualizan en el sector izquierdo superior de la pantalla, que se irán descontando de a una con cada error, o con el cumplimiento del tiempo límite de cada ronda (30 segundos). Al quedarse sin vidas, se termina la partida.
 
 ![cantidad vidas](readme/screenshots/Captura_de_pantalla_2024-07-01_172635.png)
 
 <strong> Monedas </strong>
+
 Con cada acierto que el jugador tenga, se le sumarán 20 monedas, mientras que con cada equivocación, se le descontarán 10. En caso de cumplirse los 30 segundos, también se descuentan 10 monedas 
 
 ![aumento monedas](readme/screenshots/Captura_de_pantalla_2024-07-01_172733.png)     
