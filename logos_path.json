@@ -1,0 +1,93 @@
+{
+    "Apple": {
+      "logo_1": "imagenes\\logotipos_marcas\\apple\\image_06.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\apple\\image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\apple\\image_09.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\apple\\REAL.jpg"
+    },
+    "LG": {
+      "logo_1": "imagenes\\logotipos_marcas\\LG\\image_06.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\LG\\image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\LG\\image_09.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\LG\\image_11.jpg"
+    },
+    "Superman": {
+      "logo_1": "imagenes\\logotipos_marcas\\Superman\\image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Superman\\image_09.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Superman\\image_06.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Superman\\image_07.jpg"
+    },
+    "McDonalds": {
+      "logo_1": "imagenes\\logotipos_marcas\\McDonalds\\image_06.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\McDonalds\\image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\McDonalds\\image_09.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\McDonalds\\image_11.jpg"
+    },
+    "Toyota": {
+      "logo_1": "imagenes\\logotipos_marcas\\Toyota\\image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Toyota\\image_09.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Toyota\\image_07.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Toyota\\image_06.jpg"
+    },
+    "Nike": {
+      "logo_1": "imagenes\\logotipos_marcas\\Nike\\image_06.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Nike\\image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Nike\\image_09.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Nike\\image_11.jpg"
+    },
+    "WarnerBros": {
+      "logo_1": "imagenes\\logotipos_marcas\\WarnerBros\\C-_Users_User_Downloads_image_06.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\WarnerBros\\C-_Users_User_Downloads_image_09.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\WarnerBros\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\WarnerBros\\C-_Users_User_Downloads_image_07.jpg"
+    },
+    "Microsoft": {
+      "logo_1": "imagenes\\logotipos_marcas\\Microsoft\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Microsoft\\C-_Users_User_Downloads_image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Microsoft\\C-_Users_User_Downloads_image_06.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Microsoft\\C-_Users_User_Downloads_image_09.jpg"
+    },
+    "Samsung": {
+      "logo_1": "imagenes\\logotipos_marcas\\Samsung\\C-_Users_User_Downloads_image_06.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Samsung\\C-_Users_User_Downloads_image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Samsung\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Samsung\\C-_Users_User_Downloads_image_09.jpg"
+    },
+    "Telegram": {
+      "logo_1": "imagenes\\logotipos_marcas\\Telegram\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Telegram\\C-_Users_User_Downloads_image_09.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Telegram\\C-_Users_User_Downloads_image_07.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Telegram\\C-_Users_User_Downloads_image_06.jpg"
+    },
+    "EAsports": {
+      "logo_1": "imagenes\\logotipos_marcas\\EAsports\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\EAsports\\C-_Users_User_Downloads_image_09.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\EAsports\\C-_Users_User_Downloads_image_07.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\EAsports\\C-_Users_User_Downloads_image_06.jpg"
+    },
+    "Google": {
+      "logo_1": "imagenes\\logotipos_marcas\\Google\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Google\\C-_Users_User_Downloads_image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Google\\C-_Users_User_Downloads_image_06.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Google\\C-_Users_User_Downloads_image_09.jpg"
+    },
+    "Kinder": {
+      "logo_1": "imagenes\\logotipos_marcas\\Kinder\\C-_Users_User_Downloads_image_07.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Kinder\\C-_Users_User_Downloads_image_09.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Kinder\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Kinder\\C-_Users_User_Downloads_image_06.jpg"
+    },
+    "Disney": {
+      "logo_1": "imagenes\\logotipos_marcas\\Disney\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Disney\\C-_Users_User_Downloads_image_09.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Disney\\C-_Users_User_Downloads_image_06.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Disney\\C-_Users_User_Downloads_image_07.jpg"
+    },
+    "Whatsapp": {
+      "logo_1": "imagenes\\logotipos_marcas\\Whatsapp\\C-_Users_User_Downloads_image_11.jpg",
+      "logo_2": "imagenes\\logotipos_marcas\\Whatsapp\\C-_Users_User_Downloads_image_07.jpg",
+      "logo_3": "imagenes\\logotipos_marcas\\Whatsapp\\C-_Users_User_Downloads_image_06.jpg",
+      "logo_correcto": "imagenes\\logotipos_marcas\\Whatsapp\\C-_Users_User_Downloads_image_09.jpg"
+    }
+  }
+  
