@@ -26,6 +26,7 @@ El participante verá en pantalla 4 versiones similares del logo de una marca, p
 
 ![pantalla_juego](readme/screenshots/Captura_de_pantalla_2024-07-01_172602.png)
 
+### Elementos del juego:
 El participante cuenta con un total de 5 vidas, representadas con los corazones que se visualizan en el sector izquierdo superior de la pantalla, que se irán descontando de a una con cada error, o con el cumplimiento del tiempo límite de cada ronda (30 segundos). Al quedarse sin vidas, se termina la partida.
 
 ![cantidad vidas](readme/screenshots/Captura_de_pantalla_2024-07-01_172635.png)
