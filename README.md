@@ -19,5 +19,5 @@ Para avanzar, deberá tocar la tecla ESC como lo indica en la ventana cuando com
 El nombre debe contener por lo menos un caracter y como máximo, puede tener 10. En caso de no ingresar ningun caracter o ingresar más de 10, el juego no le permitirá continuar. 
 
 ![limite 10 caracteres](readme/screenshots/Captura de pantalla 2024-07-01 190116.png)
-## Fuentes:
+## Documentacion:
 https://www.pygame.org/docs/
